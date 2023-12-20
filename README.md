@@ -1,4 +1,4 @@
-# Rural_Healthcare_Disparities-
+# Rural_Healthcare_Disparities
 
 ## The curious case of Rural healthcare: What do you see??
 ### 15-20%  (more than 46 million Americans) live in rural areas 
